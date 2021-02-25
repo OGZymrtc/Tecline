@@ -1,0 +1,394 @@
+[
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/drawable_ic_dashboard_24.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/drawable/ic_dashboard_24.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/drawable_ic_sources_24.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/drawable/ic_sources_24.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/menu_menu_bottom.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/menu/menu_bottom.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_logout.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-xxxhdpi/ic_logout.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/drawable_ic_exit_to_app_24.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/drawable/ic_exit_to_app_24.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/drawable_tet.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/drawable/tet.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_popular.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-xhdpi/ic_popular.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/anim_middle_animation.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/anim/middle_animation.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_popular_round.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-mdpi/ic_popular_round.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_logout_round.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-anydpi-v26/ic_logout_round.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_sources_round.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-mdpi/ic_sources_round.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_sources.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-mdpi/ic_sources.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/drawable_ic_baseline_red_favorite_24.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/drawable/ic_baseline_red_favorite_24.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_sources.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-hdpi/ic_sources.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_logout_round.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-xxxhdpi/ic_logout_round.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_sources_round.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-xhdpi/ic_sources_round.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/drawable_button_design.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/drawable/button_design.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/layout_activity_details.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/layout/activity_details.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/layout_fragment_top_stories.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/layout/fragment_top_stories.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/drawable_dashboard_gradient.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/drawable/dashboard_gradient.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_sources_round.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-xxxhdpi/ic_sources_round.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/drawable_ic_sources_foreground.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/drawable/ic_sources_foreground.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/drawable_computerworld.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/drawable/computerworld.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_sources_round.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-anydpi-v26/ic_sources_round.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_popular.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-mdpi/ic_popular.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_popular.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-xxxhdpi/ic_popular.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_logout.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-anydpi-v26/ic_logout.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/drawable_vox.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/drawable/vox.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_popular.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-hdpi/ic_popular.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_sources.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-anydpi-v26/ic_sources.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_sources.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-xxxhdpi/ic_sources.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/layout_activity_animation.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/layout/activity_animation.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/drawable_ic_popular_foreground.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/drawable/ic_popular_foreground.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/layout_activity_news_feed.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/layout/activity_news_feed.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/drawable_details_toolbar_design.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/drawable/details_toolbar_design.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/font_titan_one.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/font/titan_one.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_sources.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-xxhdpi/ic_sources.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_logout.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-hdpi/ic_logout.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_popular.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-anydpi-v26/ic_popular.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/drawable_toolbar_desing.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/drawable/toolbar_desing.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/drawable_name_icon.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/drawable/name_icon.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_popular_round.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-hdpi/ic_popular_round.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_sources_round.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-xxhdpi/ic_sources_round.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/drawable_ic_baseline_delete_24.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/drawable/ic_baseline_delete_24.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_popular_round.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-xxxhdpi/ic_popular_round.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/layout_activity_signup.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/layout/activity_signup.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_logout_round.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-mdpi/ic_logout_round.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/font_brandon.ttf.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/font/brandon.ttf"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_popular_round.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-anydpi-v26/ic_popular_round.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/drawable_cnet.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/drawable/cnet.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/drawable_ic_logout_foreground.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/drawable/ic_logout_foreground.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_logout_round.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-xhdpi/ic_logout_round.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/font_antic.ttf.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/font/antic.ttf"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_logout.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-xxhdpi/ic_logout.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_popular.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-xxhdpi/ic_popular.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/layout_card_design.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/layout/card_design.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/drawable_gradient.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/drawable/gradient.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/layout_fragment_sources.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/layout/fragment_sources.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/drawable_ic_baseline_favorite_24_black.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/drawable/ic_baseline_favorite_24_black.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/layout_fragment_favorites.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/layout/fragment_favorites.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_popular_round.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-xhdpi/ic_popular_round.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_sources.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-xhdpi/ic_sources.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/drawable_twp.jpeg.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/drawable/twp.jpeg"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/font_bungee.ttf.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/font/bungee.ttf"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/layout_activity_feed.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/layout/activity_feed.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/drawable_ic_baseline_favorite_24_white.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/drawable/ic_baseline_favorite_24_white.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/drawable_icon.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_logout_round.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-hdpi/ic_logout_round.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/layout_row.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/layout/row.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/drawable_tec.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/drawable/tec.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_logout.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-xhdpi/ic_logout.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_logout.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-mdpi/ic_logout.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/layout_favorite_card_design.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/layout/favorite_card_design.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/drawable_ic_baseline_favorite_24.xml.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/drawable/ic_baseline_favorite_24.xml"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_sources_round.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-hdpi/ic_sources_round.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_popular_round.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-xxhdpi/ic_popular_round.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/drawable_ars.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/drawable/ars.png"
+    },
+    {
+        "merged": "/home/onur/Android Studio Projects/Tecline/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_logout_round.png.flat",
+        "source": "/home/onur/Android Studio Projects/Tecline/app/src/main/res/mipmap-xxhdpi/ic_logout_round.png"
+    }
+]

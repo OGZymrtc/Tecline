@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "647267356095",
+    "project_id": "tecline-c899c",
+    "storage_bucket": "tecline-c899c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647267356095:android:a59b590a48d324a40c650a",
+        "android_client_info": {
+          "package_name": "com.ogzymrtc.tecline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647267356095-739cal0g0a1c6ua8fj5qbjtvg8or3nos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoGiDOBcbGQew6R06FpJraE90cyJvMZNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647267356095-739cal0g0a1c6ua8fj5qbjtvg8or3nos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

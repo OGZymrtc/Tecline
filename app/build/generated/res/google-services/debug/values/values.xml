@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">647267356095-739cal0g0a1c6ua8fj5qbjtvg8or3nos.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">647267356095</string>
+    <string name="google_api_key" translatable="false">AIzaSyDoGiDOBcbGQew6R06FpJraE90cyJvMZNA</string>
+    <string name="google_app_id" translatable="false">1:647267356095:android:a59b590a48d324a40c650a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDoGiDOBcbGQew6R06FpJraE90cyJvMZNA</string>
+    <string name="google_storage_bucket" translatable="false">tecline-c899c.appspot.com</string>
+    <string name="project_id" translatable="false">tecline-c899c</string>
+</resources>

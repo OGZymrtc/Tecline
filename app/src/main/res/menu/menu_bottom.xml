@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/topStoriesButton"
+        android:title="Top Stories"
+        android:icon="@drawable/ic_dashboard_24"
+        />
+    <item
+        android:id="@+id/favNewsButton"
+        android:title="Favorites"
+        android:icon="@drawable/ic_baseline_favorite_24_black"
+        />
+    <item
+        android:id="@+id/sourcesButton"
+        android:title="Sources"
+        android:icon="@drawable/ic_sources_24"
+        />
+    <item
+        android:id="@+id/logoutButton"
+        android:title="Log out"
+        android:icon="@drawable/ic_exit_to_app_24"
+        />
+</menu>
